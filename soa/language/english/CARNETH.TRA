@@ -1,0 +1,37 @@
+// CARNETH translation file
+@1  = ~施舍穷人一点钱吧？~
+@2  = ~施舍一枚金币吧，陌生人？现在晚上城里很冷啊。~
+@3  = ~给你一枚金币找张象样的床过夜吧。~
+@4  = ~你是个好人，陌生人。有什么我能帮忙的吗？~
+@5  = ~我在寻找最近在当地商店购买的护身符。相信你一定知道它的下落~
+@6  = ~所以你想要答案，似乎现在每个人都想要答案。莎莉在这里喜欢制作拼图。解决她的一个谜题，我就会回答你的问题~
+@7  = ~好吧。有什么谜题吗~
+@8  = ~我的年龄是我女儿的四倍。二十年后我的年龄将是她的两倍。我们现在几岁了~
+@9  = ~我60岁了，我女儿15岁了~
+@10 = ~我28岁，我女儿7岁~
+@11 = ~我36岁，我女儿9岁~
+@12 = ~我40岁了，我女儿10岁了~
+@13 = ~我48岁，我女儿12岁~
+@14 = ~不，这似乎不正确。再试试？~
+@15 = ~干得好。你找的护身符是古代精灵的制品，叫做玛莉斯之星。很稀有，而我凑巧最近得到了它。我可以把它卖给你，但是要价很高。~
+@16 = ~你开价多少？~
+@17 = ~我没时间了。把护身符给我，否则你死定了。~
+@18 = ~当地一家旅馆里有一种特殊的红宝石出售。它被称为龙心红宝石。把它带给我，我就把护身符给你。~
+@19 = ~一颗龙心红宝石在贝尔苟斯特的一家旅馆出售。好的，我这就去给你拿东西~
+@20 = ~威胁是没有用的，陌生人。杀了我，你永远也拿不到护身符。~
+@21 = ~好吧……很显然你不想帮我，告诉我你开价多少？~
+@22 = ~我不在乎。你今天死定了。~
+@23 = ~红宝石……你拿到了？~
+@24 = ~还没有~
+@25 = ~是的，给你。现在让我们完成交易吧，乞丐。把护身符给我，我要上路了。~
+@26 = ~哦，今天真是美好的一天。我不知道该怎么感谢你才足够。时隔多年，我终于拥有了龙心红宝石。拿走护身符，祝你的任务好运~
+@27 = ~我没有时间做这个。我还有更重要的事情要做~
+@28 = ~好的，让我听听她的谜题吧。~
+@29 = ~又回来了，陌生人。你想尝试解开谜题吗？~
+
+//@20 = ~A strange name for a gem stone. Is there anything else I need to know about it before I obtain it.~
+//@14 = ~Oh yes there is one other thing. The ruby has magical powers. Don't tamper with it or you may get a nasty shock!~
+//@31  = ~A street beggar has got me running around looking for a Sunstone gem just to get some information.~
+//@32  = ~I have retrieved a Sunstone gem for Carneth the beggar in exchange for information about the next talisman.~
+//@33  = ~Carneth now wants me to buy him a Dragons Heart ruby from one of the local inns. It sounds like some magical artefact, no doubt it will be expensive.~
+//@34  = ~After getting the Dragons Heart ruby for Carneth he has given me the talisman I seek. The Star of Merris.~
