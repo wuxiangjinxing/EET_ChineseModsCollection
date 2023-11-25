@@ -1,0 +1,21 @@
+@0    = ~海妖女的呼唤~
+@1    = ~布伦南~
+@2    = ~老人~
+@3    = ~海盗~
+@4    = ~扩展的灯塔地区~
+
+@1000  = ~检测到Tutu。~
+@1001  = ~检测到BGT。~
+@1002  = ~该mod应该在完成Tutu/BGT转换后，再安装到相关目录~
+/* new for v16.1 */
+@1003  = ~Extended Lighthouse Area~
+@1004  = ~The mod needs to be installed before EET_End.~
+@1005  = ~This mod is not compatible with your game.~
+
+/* new for v16.2 */
+@1006 = ~Modmerge is required before mods can be installed on this game. Check the readme for more information and a link to download Modmerge.~
+@1007 = ~Baldur's Gate detected.~
+@1008 = ~BG:EE detected...~
+@1009 = ~EET detected...~
+@1010 = ~Lure of the Sirine's Call main component needs to be installed.~
+@1011 = ~Your game is not compatible.~

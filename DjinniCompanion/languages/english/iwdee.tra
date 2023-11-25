@@ -1,0 +1,141 @@
+// -*- coding: utf-8 -*-
+
+// Overridden strings
+@60022 = ~My character stats:
+I am a Fighter/Mage at level <A7AFQ_LVL>/7.
+Strength: 15
+Dexterity: 16
+Constitution: 13
+Intelligence: 15
+Wisdom: 16
+Charisma: 11
+Max. HP: <A7AFQ_HP>
+Base THAC0: <A7AFQ_THAC0>
+Armor Class: <A7AFQ_AC>
+Saving Throws: <A7AFQ_SV1>/<A7AFQ_SV2>/<A7AFQ_SV3>/<A7AFQ_SV4>/<A7AFQ_SV5>
+Attacks/round: 3/2
+I am specialized in scimitars and somewhat skilled in single weapon use.~
+@60023 = ~My character stats:
+I am a Fighter/Mage at level <A7AFQ_LVL>/11.
+Strength: 19
+Dexterity: 17
+Constitution: 16
+Intelligence: 15
+Wisdom: 16
+Charisma: 11
+Max. HP: <A7AFQ_HP>
+Base THAC0: <A7AFQ_THAC0>
+Armor Class: <A7AFQ_AC>
+Saving Throws: <A7AFQ_SV1>/<A7AFQ_SV2>/<A7AFQ_SV3>/<A7AFQ_SV4>/<A7AFQ_SV5>
+Attacks/round: 2
+I have attained Grand Mastery in scimitars and am highly skilled in single weapon use.~
+
+
+// *** IWDEE-specific strings (index 100000 and up)
+// dialog lines
+@100000 = ~Greetings, adventurer. My name is Kelvor Domine, wizard and high standing member of the Host Tower of the Arcane.~
+@100001 = ~Host Tower of the Arcane?~
+@100002 = ~What is a high standing member of the Host Tower doing so far away from home?~
+@100003 = ~You appear to be somewhat ignorant about the region you are travelling through.~
+@100004 = ~The Host Tower of the Arcane is an important academy of magical training and a center of power of the region.~
+@100005 = ~Interesting. And what are you doing so far away from home?~
+@100006 = ~Would you get to the point already?~
+@100007 = ~Yes, this is indeed very unusual.~
+@100008 = ~Let me just say that I have a passing interest in the events going on in the depths of this dormant volcano.~
+@100009 = ~You appear to have made a lasting impression on the local inhabitants by defeating their queen, Yxumonei.~
+@100010 = ~How do you know about this?~
+@100011 = ~There is more than one way to learn about events such as this.~
+@100012 = ~But let me get to the point.~
+@100013 = ~Several years ago an agent of Yxunomei stole a very precious artifact from us. Ever since that incident we have repeatedly attempted to get it back without much success. Her lair was too well guarded to take her by surprise.~
+@100014 = ~The recent theft of the Heartstone Gem destroyed even the last bit of hope to retrieve the artifact without a direct confrontation.~
+@100015 = ~I'm talking about the djinni I can see in your midst, and his lamp.~
+@100016 = ~I'm talking about the djinni lamp I can sense in your possession.~
+@100017 = ~I would never have guessed that a rather inexperienced band of adventurers would be able to wrest the lamp from her grasp.~
+@100018 = ~Since the lamp is technically still ours, I would like to make you a deal.~
+@100019 = ~I can offer you either a magical long sword or some monetary compensation for it. Both are very tempting options for adventurers such as yourself. What do you say?~
+@100020 = ~You have conviced me. I'd like to have the magical weapon.~
+@100021 = ~Very well. Give me the money.~
+@100022 = ~Actually, I'd like to keep the lamp.~
+@100023 = ~I'm not interested in any of your offers. The lamp is mine now.~
+@100024 = ~You have made a wise decision. This blade is heavily enchanted to cut even magical beings of great power. Use it well.~
+@100025 = ~You have made a wise decision. 5000 gold is no small amount of money, but you have earned it.~
+@100026 = ~I bid you farewell and good luck on your journey.~
+@100027 = ~You should seriously reconsider. We are looking for the lamp for quite some time. A refusal from your side is out of question.~
+@100028 = ~If you insist. Then I'd like to have the magical weapon.~
+@100029 = ~I don't care about your offer. The lamp is mine now.~
+@100030 = ~(sigh) I have almost expected you to be uncooperative. That's why I took the freedom to bring along some friends. Maybe they can convince you to part with it?~
+@100031 = ~Don't think this is over yet. I'll collect your lamp one way or another.~
+@100032 = ~Greetings, <GABBER>. I told you that we would meet again.~
+@100033 = ~I hope my friends were able to change your mind. Are you now more inclined to hand over the djinni lamp?~
+@100034 = ~Very well. You can have it.~
+@100035 = ~No, I don't think so.~
+@100036 = ~You have made a wise decision. I'm even willing to spare a bit of coin for your trouble.~
+@100037 = ~In return I promise that I won't bother you again. Farewell.~
+@100038 = ~You don't seem to understand your situation. I have the power to destroy your sorry hides with as much as a gesture of my hands. But I am withholding my powers, as I'm still convinced that we can come to a civilized agreement.~
+@100039 = ~Don't you want to reconsider? I won't ask you so nicely again.~
+@100040 = ~If you insist, please take it.~
+@100041 = ~I've told you my decision. Don't make me repeat myself!~
+@100042 = ~Very well. Maybe you just need a better motivation to change your mind? I'm sure that my colleagues from the Host Tower can help you in this case.~
+@100043 = ~Be assured that I will hound you as long as you have the lamp in your possession.~
+@100044 = ~Ah, there you are. I have waited for you, <GABBER>. You know why I'm here.~
+@100045 = ~I give you one last chance to hand over the djinni lamp peacefully. What is your decision?~
+@100046 = ~Alright, alright. You can have it. There is no need to spill more blood over it.~
+@100047 = ~I told you before, this lamp is mine now!~
+@100048 = ~It is good that you have come to your senses. You may not be happy about the situation, but at least you won't be dead.~
+@100049 = ~You may continue your journey. I won't bother you again. Farewell.~
+@100050 = ~(sigh) Very well. You are forcing my hand now. I'll take the lamp from your dead body.~
+@100051 = ~Did I mention that I'm a master summoner? No? Then see for yourself!~
+@100052 = ~Greetings <RACE>, may I speak to your leader?~
+@100053 = ~May I speak to your leader?~
+@100054 = ~Greetings, my <PRO_LADYLORD>. I see that you have successfully wrested the lamp from the grasp of my former master.~
+@100055 = ~(sigh) I can also feel that the lamp has chosen you as my sole new master.~
+@100056 = ~Please excuse my lack of manners, but I have to return the Heartstone Gem to Kuldahar as quickly as possible.~
+@100057 = ~We should move on, Afaaq. I still have to return the Heartstone Gem to Kuldahar.~
+@100058 = ~My enslavement to the lamp was caused by powerful black sorcery. I was not able to divine the identity of my captors, but I can still feel that they are alive. In my current condition I would be unable to resist if they decided to come for me again.~
+
+
+// misc. strings
+@100500 = ~Succubus~
+@100501 = ~Show them no mercy!~
+@100502 = ~I'm counting on you to take care of them!~
+@100503 = ~Kelvor Domine~
+@100504 = ~Mage~
+@100505 = ~Thief~
+@100506 = ~Fighter~
+@100507 = ~Now the time has come for you to pay!~ [UNEARF05]
+@100508 = ~~ [unearf06]
+@100509 = ~~ [unearf07]
+
+
+// journal entries
+@101000 = ~Loose Ends
+On my way out of Dragon's Eye I encountered a mage called Kelvor Domine, who claimed to be a member of the Host Tower of the Arcane.
+
+He already seemed to know that I had defeated Yxumonei and asked for the djinni lamp I had looted from her dead body. After I declined, he called a number of mercenaries and threatened me that I haven't seen the last of him, before he teleported away.~
+
+@101001 = ~Loose Ends
+While I was exploring the cave leading to Dorn's Deep, an old "acquaintance" visited me again.
+
+This time Kelvor Domine demanded more insistently that I gave him the djinni lamp. I refused again, which greatly angered the mage. He called his colleagues to deal with me and threatened me that he would hound me until I gave up the lamp, before he teleported away, again.~
+
+
+// completed journal entries
+@101900 = ~Loose Ends
+On my way out of Dragon's Eye I encountered a mage called Kelvor Domine, who claimed to be a member of the Host Tower of the Arcane.
+
+He already seemed to know that I had defeated Yxumonei and asked for the djinni lamp I had looted from her dead body. I accepted and handed over the djinni lamp. Who knows what a wizard of his power would unleash upon me if I refused. I'll probably never see the djinni and his lamp again.~
+
+@101901 = ~Loose Ends
+While I was exploring the cave leading to Dorn's Deep, an old "acquaintance" visited me again.
+
+This time Kelvor Domine demanded more insistently that I gave him the djinni lamp. I decided to accept his demands now and handed over the lamp. Who knows what an angry wizard of his power would unleash upon me if I repeatedly refused his demands. I'll probably never see the djinni and his lamp again.~
+
+@101902 = ~Loose Ends
+On my way to Lower Dorn's Deep I encountered Kelvor Domine again.
+
+This time he didn't hide behind polite words and demanded outright that I gave him the djinni lamp. I decided to accept his demands now and handed over the lamp. Who know what an angry wizard of his power would unleash upon me if I refused. I'll probably never see the djinni and his lamp again.~
+
+@101903 = ~Loose Ends
+On my way to Lower Dorn's Deep I encountered Kelvor Domine again.
+
+This time he didn't hide behind polite words and demanded outright that I gave him the djinni lamp. I refused again, which seemed to agitate him considerably. In response to my decision he summoned a host of mighty elementals and powerful demons. His own magical powers were impressive as well. I sincerely hope that I don't see any more members from the Host Tower after this incident.~
