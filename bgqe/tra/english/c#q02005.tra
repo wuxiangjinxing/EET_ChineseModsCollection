@@ -1,0 +1,318 @@
+@0    = ~你……你做了什么？！~
+@1    = ~你……你做了什么？！我的孩子！~
+@2    = ~喔，另一个。他在楼上，你现在应该知道了。告诉他自己去泡茶。我不是他的奴隶。~
+@3    = ~请原谅，我的女士？~
+
+@5    = ~抱歉打扰了你。我马上走。~
+@6    = ~我们刚和你的丈夫谈过，他……~
+@7    = ~现在，这都是这么回事？你们是对奇怪的夫妇！~
+@8    = ~我们希望这条项链配得上你，我友善的帮手。~
+@9    = ~实际上，是安妮拿了那条项链！我可怜的丈夫！（看起来很内疚）非常感谢你的帮助，亲爱的陌生人！你为我们做了件非常好的事。~
+@10   = ~我真的希望能看到你高兴。你给你的项链找到最诚实的买家了吗？~
+@11   = ~非常高兴。日安。~
+@12   = ~是的。有些成年人还能保持一份童真多么难得。~
+@13   = ~我现在有钱了。你还有兴趣吗？~
+@14   = ~（哭泣）现在，请离开吧……~
+@15   = ~现在你想要什么？~
+@16   = ~你确定你不需要些钱吗？~
+@17   = ~你的丈夫告诉我们那条遗失的项链是属于你的。~
+@18   = ~每什么。再见。~
+@19   = ~我告诉过你，你在哪里可以找到他！~
+@20   = ~你似乎丢了什么东西。我能帮助你吗？~
+@21   = ~你的女儿提到你丢了条项链。~
+@22   = ~没什么。再见。~
+@23   = ~非常感谢你。我们……是非常腼腆的人，也许有点太骄傲了。（害羞的微笑）你是个非常大方和友善的人。我们真的欠你的情。~
+@24   = ~（你给了杜德利夫人夫人500金币）~
+
+
+@26   = ~（你将550金币放进了杜德利先生的钱袋里，并确保他没有注意到额外的金币）我谢谢你，好人。~
+
+@28   = ~（你将600金币放进了杜德利先生的钱袋里，并确保他没有注意到额外的金币）愿你们一切都好。~
+
+@30   = ~你完整的听到了我说的。在上楼前至少体面的搽搽你的鞋。~
+@31   = ~我……噢，别介意。~
+@32   = ~不管你说了什么。在上楼前至少体面的搽搽你的鞋。~
+@33   = ~我不会再听了！我不知道他为什么一直跟他的朋友们那么说。他让整条街的人都认为我拿着它。但是，是他把它藏起来了！这太荒谬了。让我安静点。~
+@34   = ~你丢了什么东西吗？~
+@35   = ~我不会再说话了。回去找他，让我安静点。~
+@36   = ~她告诉你那件事了？（唉）可怜的女孩。她的爸爸没有考虑过他会对她造成什么影响。他没有考虑过藏起了那条珍珠项链会对我们有什么影响！~
+@37   = ~我能帮你妈？~
+@38   = ~好吧，太糟了。我必须走了。~
+@39   = ~不，我不这么认为。我很抱歉，我并不是想冒犯你，但是即使是我们的朋友也没法跟他讲道理……我对我不友好的行为向你道歉。当你刚进来时，我还以为你是他的朋友。谢谢你愿意帮忙，但是现在请离开我们吧。~
+@40   = ~如果你只是丢了钱，也许我可以给你些？~
+@41   = ~如你所愿。再见。~
+@42   = ~啊……不，不，谢谢你。我们有祖国的钱。至少我们会有……别介意。这并不关你的事。~
+@43   = ~是他妈？好吧，至少他似乎记得……尽管那毫无帮助，如果他不把它给我！~
+@44   = ~但是他说他没理由要把它藏起来……而且你也同意要卖掉它了，但是你接着又改变了主意。~
+@45   = ~太糟了。我必须走了。~
+@46   = ~我改变了主意？我改变了主意？有天晚上，我们一起讨论是否必须卖掉我……（抽泣）我祖母的项链，而第二天早上他就把它藏起来了！我们会失去这栋房子，因为我们付不起我们最后的债务。我真的不会怪他现在没办法赚到以前那么多钱。我从几天前到现在就从来没有和那个固执的丈夫谈过了。我……我受不了了……（抽泣）请让我安静会吧……~
+@47   = ~我有种感觉，我们现在陷入了死结。这件事一定有其它的解决办法。~
+@48   = ~噢，快，别再哭了……哎啊，我现在最好离开了！~
+@49   = ~可怜的安妮……她会变成怎样……（抽泣）~
+@50   = ~你……你做了什么？！安妮！~
+@51   = ~你在这里做什么？去楼下提醒诉她我们的协议。这里是我的，楼下是她的。告诉她，我要喝茶！现在，快走！~
+@52   = ~请原谅，阁下？~
+@53   = ~好吧，我走了。~
+@54   = ~我们刚和你的妻子谈过了，她说……~
+@55   = ~等等！等等！你……（气喘吁吁）你给了我们太多钱了，我友善的帮助者。是500（喘气）我们说好了500金币！~
+@56   = ~啊，又是你！看到熟悉的面孔真高兴。你的朋友喜欢那条项链吗？~
+@57   = ~我们早就应该想到是安妮拿了那条项链！~
+@58   = ~你的妻子正在楼下大叫……你确定你真的不想要些钱让这件事结束？~
+@59   = ~你确定你不要点钱吗？~
+@60   = ~跟你妻子谈过后，我发现她认为你是把项链藏起来了！~
+@61   = ~想想要茶的事！~
+@62   = ~你似乎丢了什么东西？~
+@63   = ~你的耳朵有问题吗？现在，去楼下找她。楼下有足够的地方。~
+@64   = ~我……好吧，再见。~
+@65   = ~嗯。你会觉得楼下有足够的地方的。~
+@66   = ~噢，别试着那样看我。我们都非常清楚是她把它藏起来了！告诉她，她不能留着它。我们必须卖掉它！~
+@67   = ~你丢了什么东西？~
+@68   = ~哈！我猜整条街都已经知道了。你没有足够的钱要变卖财产很丢脸？那匹马踩了我的脚不是我的错。现在，请你离开！我想休息一会。再见。~
+@69   = ~我们能帮助你吗？~
+@70   = ~当然。再见。~
+@71   = ~是的。去楼下，告诉她不要把它藏起来！再见。~
+@72   = ~丢了？是的，它的确丢了！我亲爱的妻子把让我们能避免失去房子的唯一财产藏起来了……是的，神啊，我和一个完全陌生的人谈起了我的经济问题！你最好现在就离开。再见！~
+@73   = ~那太可笑了！我为什么要那么做？真是的情况是她，绝对，古老的家族首饰……（叹气）让一个男人承认他无法赚够他家庭的花费不容易。她答应卖掉那些珍珠。她真是个勇敢的女人，我的玛格瑞丝！但是，（叹气）她改变了主意，现在它不见了。到现在我和她有一个星期没讲话了！这样的情形真让人无法忍受。请让一个老头独自难过吧。祝你日安。~
+@74   = ~如果你丢的只是钱，也许我可以给你一些？~
+@75   = ~再见。~
+@76   = ~啊？噢，谢谢你的……呃，慷慨。但是她永远不会接受的，我的玛格瑞丝……不，她不会的。~
+@77   = ~（叹气）这并不容易，看到了吗？从陌生人那里接受金钱是不对的，因为我们没法达成一致。这听起来很吸引人，但是这并不容易。（叹气）~
+@78   = ~在你走后，我的包里多出了100枚金币……你是咧嘴在笑吗？你非常友善而且慷慨，但是我们不能接受这么多钱的馈赠。~
+@79   = ~这不是馈赠。我付给了你600枚金币，因为我觉得这才是那条项链应值的价钱。我不会再你的妻子面前和你争辩，但是我绝对不会拿回这100金币，因为它们属于你，善良的人。~
+@80   = ~你确定吗？看，你真的需要那些钱，而我还有足够的钱花。~
+@81   = ~（叹气）好吧，那么把钱还给我吧。~
+@82   = ~在你走后，我的包里多出了50枚金币……你是咧嘴在笑吗？你非常友善而且慷慨，但是我们不能接受这么多钱的馈赠。~
+@83   = ~这不是馈赠。我付给了你600枚金币，因为我觉得这才是那条项链应值的价钱。好吧，你还价到500金币，那么我们就取个中间价。我不会再你的妻子面前和你争辩，但是我绝对不会拿回这50金币，因为它们属于你，善良的人。~
+@84   = ~我们真的欠你份情，友善的陌生人。愿众神与你同在。~
+@85   = ~这没有什么问题。我们真的欠你份情，友善的陌生人。拿回这些钱吧，愿众神与你同在。~
+@86   = ~啊，呐，你不是……我是说……你真的……？~
+@87   = ~你看，在我的老眼里并没有泪水。我猜是在一路快跑过来追你的时候，有沙子进到我眼睛里去了。你很特别，年轻人。我告诉你。但是你说的让我有些实际想法……希望我回家后我还能记得，这样我就可以告诉玛格瑞丝……我也许不会告诉她，作为一个不错的惊喜……~
+@88   = ~我们欠你的情，友善的陌生人。那么我会留着这些钱……愿众神与你同在！~
+@89   = ~好吧，我们会去找一些我们私下认识的人……和你认识的人谈钱总是不太好，但是这是……~
+@90   = ~天啊，你想要告诉每个人我们经济困难的细节吗？~
+@91   = ~你为我们所做的事情让我们非常感激，但是我们需要时间来更细致的讨论进程……我很抱歉，但是这是我们非常焦急的时刻。~
+@92   = ~我很抱歉过多的干涉了你的私人问题，但是我正在为一个，呃……朋友寻找一条漂亮的珍珠项链。你可以把那条项链卖给我吗……600金币怎么样？~
+@93   = ~好吧，我真的希望一切顺利。祝你日安。~
+@94   = ~是的，当然。再见。~
+@95   = ~600金币？！那……那比我们能够从其它卖家那里得到的要高得多。~
+@96   = ~非常感谢你，这是个非常可敬的给予。我们不想过多的麻烦你。我们……~
+@97   = ~玛格瑞丝，你在说什么啊？你没有听到说过的话吗？我们现在为什么不买掉它？不管怎么我们都不能从埃德加那里买回它了。~
+@98   = ~宝贝，求你。我并不像想象中那么傻……~
+@99   = ~玛格瑞丝，来这边一会。~
+@100  = ~（低语、低语）……直接给钱，而且……（含糊地说话）……你永远不知道埃德加是否……（低语、低语）……~
+@101  = ~是的，但是（低语、低语）……~
+@102  = ~玛格瑞丝，请你（低语、低语）……安妮，嗯？~
+@103  = ~好吧，（低语、低语）（抽泣），你说的很对，我亲爱的。但是，只是（低语、低语）……~
+@104  = ~你是最聪慧的，我可爱的妻子。那的确就是我们将会做的。~
+@105  = ~好吧，和蔼的帮助者。我们最终决定答应你的条件，但是并不是你提出的600金币。五百，它将卖。这对我们来说仍然是非常划得来的买卖，而且我们非常清楚的意思到你说知道的那个情况……（咳嗽）~
+@106  = ~太让人欣慰了。我还以为我会寻找一条珍珠项链直到永远！~
+@107  = ~如果你决定好了，我不会再与你争论。~
+@108  = ~是的，是的，让我们赶快做成这笔交易。~
+@109  = ~啊，看起来我暂时没有足够的钱。我晚些会回来的！~
+
+@111  = ~妈咪！~
+@112  = ~爹地！~
+@113  = ~你是谁？你让我害怕！~
+@114  = ~那条项链还在吗？我能看看吗？~
+@115  = ~妈妈病不像我想象的那么生气！唯一不好的事情就是现在那条项链要被卖掉了……~
+@116  = ~我并不想伤害任何人！~
+@117  = ~噢，可怜的孩子。安静下来，一切都会好的。把项链藏起来并不能有所帮助，安妮。进去把它拿回来吧。必须做点什么事情，即使会造成伤害。~
+@118  = ~你还在哭吗？~
+@119  = ~你又何我的父母谈过了，是吗？~
+@120  = ~是的。你确认你真的不知道那条失踪了的项链的事情吗，安妮？~
+@121  = ~我不想和你说话，女孩。~
+@122  = ~安妮，按你妈妈说的话来看，我明显感觉到“某人”在那个特别的晚上拿走了那条项链……你觉得现在是时候把它还给你妈妈了吗？~
+@123  = ~（叹气）我希望妈妈和爸爸会停止争吵！~
+@124  = ~你在我们的房子里！你和我的父母谈过了吗？~
+@125  = ~我的确和你的父母“谈”过了……他们似乎丢了什么东西？~
+@126  = ~那么你是……？~
+@127  = ~我和你妈妈谈过了……似乎你的父母最近相互不理睬了？~
+@128  = ~我和你爸爸谈过了……似乎你的父母最近相互不理睬了？~
+@129  = ~我？我是……我是安妮，你为什么要问？~
+@130  = ~不，他们没有……（叹气）我希望妈妈和爸爸会停止争吵！~
+@131  = ~是——的……他们告诉了那件事了吗？他们说了什么？~
+@132  = ~他们没有告诉我，老实说。我从他们说的话里推断出来的。你知道关于这个的什么事吗？~
+@133  = ~是的，他们告诉了我。告诉我你知道的！~
+@134  = ~没关系。我不想和你讲话，女孩。~
+@135  = ~妈妈说我们需要些钱来付房款……但是我们丢了可以出售的那条项链。~
+@136  = ~啊，那么这是条项链！好吧，我感觉你的妈妈和爸爸都认为是对方把它藏起来了……你知道它可能会在哪里吗？~
+@137  = ~我？不……不，为什么是我？~
+@138  = ~这没关系，我猜。~
+@139  = ~我不相信你！他们不会告诉任何人！~
+@140  = ~是的，好吧。他们没有告诉我。我从他们说的话里推断出来的。你知道关于这个的什么事吗？~
+@141  = ~但是，我……我……（抽泣）我不希望那条项链被卖掉！那是奶奶留给我们最后的东西，我……我……我想他们会找到别的办法，所以我（抽泣）在他们睡着的时候拿走了它，而现在他们都非常生气，所有事都变得很糟……（抽泣）~
+@142  = ~噢，天啊！另一个哭泣的女性！我受不了了！~
+@143  = ~也……（抽泣）也许你是对的。噢，我希望妈妈不会太生气！~
+
+
+
+@147   = ~你！不是你吗……你从我们的女儿那里拿走了那条项链，不是你吗！我们当然无法证明，但是我相信我的女儿。你真邪恶……我们不得不放弃这座房子，因为我们付不起债务。我们会走的远远，重新开始。你真无耻！~
+@148   = ~那条项链还在你那里吗？你会把它给妈咪，对吗？~
+@149   = ~我改变了主意。你自己把项链给你妈妈更好。尽快去！~
+@150   = ~把那条项链给我，孩子。我会……呃，在你父母平静下来之前，我会安全的带着它。~
+@151   = ~我应该给你奶奶的项链？~
+@152   = ~不，最好不要。~
+@153   = ~为什么，是的，当然。想想你的妈妈发现后会怎样心烦意乱。你最好不要继续拿着它！~
+@154   = ~如果……如果你这么想。但是你会把它给妈妈，是吗？~
+
+
+@156   = ~你是个无赖！~
+@157   = ~你抢走了那条项链！你真邪恶！~
+@158   = ~你要告诉我什么？~
+@159   = ~给你……你的项链。是安妮拿了它。~
+
+
+@161   = ~真的！你会把它给我们。我不知道你怎么让安妮把它给你的，但是你的诚实让我们欠你一份情！~
+@162   = ~我的项链！还有……安妮，你说？噢，你怎么找到它的？太感谢你的帮助了。你不知道你的诚实帮了我们多大忙！~
+@163   = ~给，安尼，拿回这条项链。它属于你，不是我。你可以留着它，作为一个礼物！~
+@164   = ~你……你给我奶奶的项链？噢，这太好了！我要告诉我所有的朋友。太感谢你了！~
+@165   = ~你好！我还没有把项链给我父母看……妈妈对这个感觉很奇怪。也许我会给爸爸看，明天。~
+
+
+
+/* new content v9 */
+
+//---NPC reactions
+
+@166   = ~MwahaHAHA! This was fun! Let's find another family and do this again!~
+@167   = ~You are sooooo mee-hee-hean!~
+@168   = ~Serves them right, if they cannot help themselves!~
+@169   = ~Oh, no! Are you sure there is nothing we can do? This is bad...~
+@170   = ~Does that mean we can buy the house for a small amount now?~
+@171   = ~I can help them move with another kick in the butt!~
+@172   = ~Maybe they left some useful things in the house. Surely they have things they cannot move?~
+@173   = ~Oh, of course not! It was absolutely impossible to guess who took the necklace. Phaaaaargh, some people!~
+@174   = ~And the prize for riddle solving goes to - tadaa! - <CHARNAME>! Let's get outta here.~
+@175   = ~Tiax doesn't understand what we are doing in this house. Those people do not render homage to the great Tiax! They don't even look at him!~
+@176   = ~I am not sure what we are doing here. Nothing of that wife's and husband's babbling made any sense to me. And the brat - argh!~
+@177   = ~I cannot believe how some families behave. Why couldn't they just *talk* to each other?~
+@178   = ~Wouldn't be the first family where the daughter plays a game with the parents...~
+@179   = ~Ahem. That's a completely different story!~
+@180   = ~I could never imagine keeping a valuable object the way the girl did!~
+@181   = ~No, you would probably show it around and be proud of it.~
+@182   = ~I know that feeling. When I was young, I took valuables and wanted to keep them for myself because I liked them so much, too. Er, my intention probably wasn't as honorable as Annie's, though.~
+@183   = ~*laughs* You are the most honest rogue I ever met, Alora.~
+@184   = ~*I* never stole shiny objects for myself. They were always for a beautiful girl...~
+@185   = ~I am still waiting, you know, Coran...~
+@186   = ~I hope they will punish that child accordingly. There is no excuse to threaten the existence of a family so!~
+@187   = ~Oh, no! Hopefully, they don't!~
+@188   = ~I don't know why I even care! Surfacers and their problems, bah!~
+@189   = ~I hope they've solved their problems now. It would be a shame to see them in any more trouble.~
+@190   = ~It's great to see them happy, and so forth, but how much longer do we have to stay in this town?~
+@191   = ~'Tis funny what effects too little communication can have. Well, I guess I should keep my mouth shut, considering t' consequences of  "too much" talking in my case *sigh*.~
+@192   = ~Do not give in to the feelings of guilt, my friend. Those bastards made us all suffer.~
+@193   = ~Helping this family seems to be little and unimportant, but every good deed tips the scale in the right direction.~
+@194   = ~You are taking the words out of my mouth! We work in big and in little steps against the evil that spreads along the Sword Coast, and it is good.~
+@195   = ~We did a good deed for a family of good people. I thank you, <CHARNAME>.~
+@196   = ~We should be careful with the good deeds we are doing. Too much of anything is an excess.~
+@197   = ~I wanted to say exactly that, Branwen. We have to keep the balance.~
+@198   = ~Balance? I could drop those good deeds altogether.~
+@199   = ~It is n-nice to see them so united.~
+@200   = ~Now they are all standing united, it would take only one blow with my axe to finish them off. <CHARNAME>, say that this was yer intention! Ye're not going to listen to this babbling any longer, are ye?!~
+@201   = ~There are moments when the best song and the sweetest music cannot help, but it all comes down to a handful of plain gold. Er, that is what I thought when I hired you for Silke...~
+@202   = ~Another family that consists of members pretending they love each other - bah!~
+@203   = ~Now they look all happy... but what is it worth? How long will it last?~
+@204   = ~Xan, in your memory it will last all eternity. Elven memory and all?~
+@205   = ~That memory will remain in my head, indeed, but you are foolish, Imoen, to think that it won't be drowned by hundreds of bad memories that share the same space in my brain.~
+@206   = ~Ah, Minsc's heart glows to see those people happy again.~
+@207   = ~This is a fine ending.~
+@208   = ~Oh, buying it is so nice! Can I have it? Please? Please?~
+@209   = ~It is very honorable, being there at the right time, doing the right things...~
+@210   = ~Buying that necklace will help those people, although I am not sure what thou art planning to do with it.~
+@211   = ~Are you sure that is a good idea? They had a buyer for that necklace, already.~
+@212   = ~Whoever that "friend" of yours might be, I am ready to carry that necklace, if it's too much for your inventory.~
+@213   = ~I wonder who that "friend" would be?...~
+@214   = ~Skie, you are really cute.~
+@215   = ~Oh, thank you! *blushes*~
+@216   = ~*laughs*~
+@217   = ~Oh, no! You are not going to give them gold? Gold always complicates things! Especially amongst friends! Wahahaa!~
+@218   = ~Better give me all your gold, Xzar, to make things simple and straight!~
+@219   = ~<CHARNAME>, I have a thing or two I'd like to sell you, too, if you have the time...~
+@220   = ~The attempt to give them happiness is vain, <CHARNAME>. Save your gold. Although I wouldn't know what for... *sigh*~
+@221   = ~Hm, I doubt this happened by accident... *smiles*~
+@222   = ~You did that? <CHARNAME>, I honour you.~
+@223   = ~Why is it always that those who need it and deserve it are too honest to keep it?~
+@224   = ~Some people are too honest for this world.~
+@225   = ~Some people are too proud for this world!~ 
+@226   = ~Some people are just too plain stupid for this world, if ye ask me.~
+@227   = ~Can we give him another 100 gold, just for his honesty?~ 
+@228   = ~Not all people like to receive donations.~
+@229   = ~Some people are t-too proud to accept help... Aren't th-they, Jaheira?~ 
+@230   = ~We are talking about this family, yes?~
+@231   = ~Of c-course.~ 
+@232   = ~What a fool! He could have extra gold, and he brought it back!~
+@233   = ~He understood the insignificance of his existence, as should we all.~ 
+@234   = ~I am quite content that he is bringing it back!!~ 
+@235   = ~<CHARNAME>, next time ye got too much gold, just give it to us.~
+@236   = ~I liked the necklace, but that is even better! Did you see the look in her eyes?~ 
+@237   = ~Happy children's eyes! Oh, that is wonderful, Boo, isn't it?~ 
+@238   = ~I know you meant well, but I cannot take any more exclamations of joy and happiness.~ 
+@239   = ~Oh, no! If I have to face any of that do-goodery again soon, I will start choking fireballs.~ 
+@240   = ~I surely hope thou took it to give it to the parents thyself, <CHARNAME>!~
+@241   = ~Let us make haste and take the necklace to the parents. I understand they need it rather urgently.~
+@242   = ~Er, we are going to give it back, yes?~
+@243   = ~Let me have a look at it - hm, that's a fine one, indeed. It should be worth something, if you know what I mean!~
+@244   = ~Children are so confiding.~
+@245   = ~Children are so confiding, it breaks my heart!~
+@246   = ~Oh, dear Xzar, don't cry! The world is mean and heartless!~
+@247   = ~You are my comfort!~
+@248   = ~Here it is...~
+@249   = ~We are very grateful for your help.~
+
+//Neera
+@250   = ~These people lost their house? But we didn't *do* anything!~ 
+
+//Eldoth (PartyHasItem("c#q02004"))
+@251   = ~I *would* advice we get rid of the piece of evidence... preferably by getting some gold out of it.~
+
+//Dorn
+@252   = ~Time was on our side. A very effective and painless method of destroying others. Way too painless, for my taste.~
+
+//Baeloth
+@253   = ~I wouldn't exactly call withholding a property "doing nothing", but yes, this was rather effective destructional behaviour considering the low efforts it took.~
+
+//Dorn
+@254   = ~I couldn't care less about these people. Let's go, enough time wasted.~
+
+//Neera
+@255   = ~It *does* something to you if people look at you with so much thankfulnes. And if it is only the will to leave the place, fast.~
+
+//Rasaad
+@256   = ~Helping this family was a good deed, <CHARNAME>, no matter how small the action.~
+//Neera
+@257   = ~I am not really comfortable with this. It's a very... *personal* necklace.~
+//Rasaad
+@258   = ~I understand why you wanted to buy the necklace yourself, and honor your will to see this problem solved in good terms.~
+
+//Rasaad
+@259   = ~I appreciate honour where I see it. That goes for you, <CHARNAME>. And also for this husband and father. Such pride!~
+ 
+//Montaron
+@260   = ~Excuse me while I kill myself in that corner over there.~
+
+//Xzar
+@261   = ~You... you *gave* it to her? Just like... just like tha-ha-hat?~
+//Montaron
+@262   = ~Don't be jealous, mage, I 'm sure <CHARNAME> loves ye, too.~
+
+//Rasaad
+@263   = ~Happily gleaming children's eyes. There is *nothing* more exhilarating than that.~
+
+//Branwen
+@264   = ~Should I be relieved that we don't have enough gold for all people in need out there, or should I start worrying? Your interest in the well-being of this random family is surprising, <CHARNAME>.~
+
+//Dorn
+@265   = ~Hmph. This might have been easy, but what is the point in tricking a child? Give me the town's guard to fight!~
+
+//Neera (Dorn in party)
+@266   = ~Er, no worries, Dorn. If we keep the necklace it might well be there *will* be the town's guard on our heels.~
+
+//Neera
+@267   = ~Hm, this wasn't exactly stealing, was it? What will you do with the necklace, <CHARNAME>?~
+
+//Rasaad
+@268   = ~The overtrustfulness of the child put us into a position of great responsibility towards this family in need, <CHARNAME>. I hope you know this.~
+
+@269   = ~Jaheira, d-do you remember the necklace I wanted t-to buy you once, the one with the tiger...~
+
+@270   = ~I was thinking of exactly the same, Khalid. But no need to let this story be heard by everyone. Ahem.~

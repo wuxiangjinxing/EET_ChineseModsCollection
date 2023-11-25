@@ -1,0 +1,182 @@
+@0    = ~你们好，旅行者。我正要前往博德之门，我不想找麻烦。~
+@1    = ~我们也不想找麻烦。~
+@2    = ~我发誓，从远处看就知道你是个半兽人，但是你的行为并不像你的外表。~
+@3    = ~但是我想。让我们看看一个像你一样的绿皮能不能打！~
+@4    = ~请原谅我的唠叨。我知道我无法隐藏我的兽人血统，在过去它给我带来了很多没必要，不愉快的对抗。~
+@5    = ~好吧，现在我要离开了，继续前往博德之门，我心爱的人正在那里等我！~
+@6    = ~（叹气）别再来了。~
+@7    = ~你说的是什么意思？~
+@8    = ~闭嘴，来战斗！~
+@9    = ~（叹气）我不该，也不会，但是我非常想要喝一杯。~
+@10   = ~嘿，我认识你吗？我们在那西凯北边的路上见过面。~
+@11   = ~怎么回事？~
+@12   = ~一个害相思病的半兽人……？~
+@13   = ~我没时间说话。~
+@14   = ~是的，开始取笑我吧。你说得很对……~
+@15   = ~确实。是的，我记得你。我告诉过你我要去哪里，不是吗？~
+@16   = ~我在来这里的路上信心十足。也许有点神经质，但是因为我快乐的期待。现在，我在这里，坐在木头长椅上，而不是去见我心爱的人。~
+@17   = ~为什么会这样？~
+@18   = ~你害怕吗？~
+@19   = ~这很可笑，不是吗？我有半兽人的血统，我块头很大而且很强壮。但是我却不敢靠近我心爱的人，因为我害怕她的反应。~
+@20   = ~我不明白。为什么？~
+@21   = ~但是你已经见过她了，不是吗？~
+@22   = ~我的身世非常清楚，那使很多人类厌恶和不信任我。但是那不是你问题的内容，是吗？~
+@23   = ~我们之前从未见过。那就是问题的所在。我们通过信笺和互赠礼物来交流。我……我的先祖主要是人类，但是因为一些自然的反常现象，我的半兽人血统在我身上表现的很明显。我的未婚妻知道我的血统，但是她真的知道这意味着什么吗？我最害怕的就是我的笔友在看到真实的我的那一刹那会变得冷漠和轻视。~
+@24   = ~如果她已经知道了那就不会有任何问题。~
+@25   = ~如果你一直坐在这里，你永远也不会有答案！~
+@26   = ~除了去那里，再没有别的方法了。用其它方式来交流只会推迟真相的到来。~
+@27   = ~好吧，你是对的。如果我是你我也会非常害怕。~
+@28   = ~我不会去那里。我无法想象一个半兽人和一个城里的女人能够维持愉快的关系。~
+@29   = ~你的话搅动了我的疑惑……~
+@30   = ~你说的是事实。我已经遭遇过太多的失望……~
+@31   = ~我还要在这里多待一会，好好想想。~
+@32   = ~啊，又是你。~
+@33   = ~我非常害怕，真丢脸！为了赚够来这里的旅费，我与那么多怪物战斗，我那么努力的工作？而现在我离我的爱人这么近，我却迷失在我自己的恐惧中，没胆量面对她。~
+@34   = ~你看起来很有吸引力，所说所做都如此恭敬。你不知道吗？~
+@35   = ~你必须要让你自己坚强起来去面对这重要的第一次会面。即使她看你的第一眼并不像你想像的那样充满赞赏，你也不要泄气。不要在意她的亲戚们对你的任何不愉快的评论。任何事情都需要时间，你应该很清楚这一点。~
+@36   = ~从你一直以来显示出的毅力来看，你不是真的打算放弃，是吗？~
+@37   = ~如果你只是个胆小鬼，也许你不去会更好。~
+@38   = ~就一直坐在这里吧……我肯定她会在这段时间里找到别的人。~
+@39   = ~这永远不会有用。现实点，回到你的家乡去，无论那是在哪里。我肯定未来的半兽人夫人正在等待着你。~
+@40   = ~我不是个胆小鬼！我……~
+@41   = ~我现在就去找她。你说服了我！我克服了自己的恐惧，我热切的想要见到她。但是也许……先要好好洗个澡……~
+@42   = ~谢谢你，我的朋友。再会。~
+@43   = ~你怎么敢那样说她！你甚至不认识她。她非常敏锐，而且有着我从未见过的最好的幽默天赋。她……~
+@44   = ~胡说！我之所以在这里，就是因为我在任何地方都没有看到“半兽人夫人”。我……~
+@45   = ~是的，当然。有行业你多比跟一个半兽人讨论他内心恐惧更重要的事情。尤其是这个半兽人花了太多时间坐在这间酒馆里，而不是去做他来这里要做的事情。我……~
+@46   = ~什么……那太动听了。如果我能得到一个陌生人如此的赞许，我的未婚妻有很大的可能性也会这么想。~
+@47   = ~噢，是的，我非常明白你说的。有多少次我只有通过我努力的工作和战斗才能达成我的目标，永不放弃……我应该更清楚的理解它，而不是害怕什么第一次的接触。我……~
+@48   = ~我太高兴了！~
+@49   = ~很抱歉，但是我们没有时间谈话。~
+@50   = ~你想要做什么？我们要准备一场盛大的庆典，没多少时间了。如果你可以原谅我……~
+@51   = ~你想要做什么？~
+@52   = ~我听说你遇到了一些关于兽人的麻烦。你需要帮助吗？~
+@53   = ~是什么怪物在威胁着你？我会与他们战斗！~
+@54   = ~没什么。祝你日安。~
+@55   = ~该死的，这难道没完没了吗？！~
+
+//@56   
+@57   = ~请原谅我口无遮拦，但是情况真的开始让我不安了。回答你的我呢提：不，我们并没有麻烦，也从来没有过，没有半兽人或者其他怪物袭击住宅，抢走我的女儿，也没有任何其它你可能听说过的事情。那只是我的女婿正在清楚他和我女儿的婚礼，他有兽人的血统。很幸运……他们现在正在度蜜月。~
+@58   = ~别误会。我很感激你的努力，和你的关心。但是我真的不知道我应该怎么阻止这些可能的冒险者们跺着脚闯进我的房子，以为他们可以赚到一大袋金子。你并不是第一个来这里的人！~
+@59   = ~那么请原谅我的打扰。我会马上离开。~
+@60   = ~你是在说乌古斯，不是吗？我见过他。他非常不确定他是否会在这里受到欢迎。~
+@61   = ~亲爱的神啊，我要出发了。~
+@62   = ~啊？好吧，他刚刚来的时候我们确实大吃一惊，那是实话。但是他真的是个好小伙子。举止比一些本地的男孩还要好，那是肯定的。我相信我会习惯有绿色皮肤，眉脊突出的孙儿们的……会有那么一天。~
+@63   = ~我希望我的女儿会一直像她现在这样快乐。~
+@64   = ~你听说了吗？有个兽人袭击了精灵之歌附近的一所房子，伤了一个女孩！就在城市的中心，你能想象吗？~
+//@65   
+@66   = ~你想要干什么？请跟我的丈夫谈。~
+@67   = ~你！你杀了我的未婚妻。现在我要杀了你！~
+@68   = ~你！你杀了我的未婚妻的父母。现在我要杀了你！~
+@69   = ~请让我们单独待着。我们非常痛苦，不想谈起这件事。~
+@70   = ~这个世界上没有正义。~
+
+
+// --NPC reactions
+
+
+//[Imoen] 
+@71   = ~So... his own restraint was the real problem why he wouldn't come near his beloved?~
+//[Imoen] 
+@72   = ~Hm, maybe it's too early to say so. It was surely his *first* problem to overcome.~
+//[Garrick] 
+@73   = ~Oh, this surely has romantic potential. The strong yet ugly half-orc, noble of birth and gentle of mind...~
+//[Imoen] (Garrick) 
+@74   = ~Yes, this definitely has potential.~
+//[Alora] (Garrick) 
+@75   = ~I would listen to such a tale, Garrick.~
+//[Safana] (Garrick) 
+@76   = ~Only if it includes the kiss that turns him into a good-looking prince.~
+//[Skie] (Garrick) 
+@77   = ~Ewww, imagine their first kiss...~
+//[Skie] (Garrick) (Dorn) 
+@78   = ~Er, no offence meant, Dorn.~
+//[Eldoth] 
+@79   = ~This romantic tale could well end with the good-looking prince hunting down the ugly monster.~
+//[Skie] (Eldoth) 
+@80   = ~Oh, I definitely like the kiss in *this* story!~
+//[Alora] 
+@81   = ~I really liked his attitude.~
+//[Jaheira] 
+@82   = ~His parents are both of human appearance? Some... accidents of nature are hard to explain.~
+//[Imoen] (Jaheira) 
+@83   = ~It disturbes the balance one would expect, does it not, Jaheira?~
+//[Jaheira] (Imoen) 
+@84   = ~Well... yes.~
+//[Faldorn] 
+@85   = ~There is no such thing as unbalance in nature. His ancestors took the risk of his appearance when they mixed races.~
+//[Kivan] 
+@86   = ~This man was strong, yet peaceful. The world would be a better place, were there more like him.~ 
+//[Dorn] 
+@87   = ~It is a disgrace his half-orc heritage shows as it does.~
+//[Neera] (Dorn) 
+@88   = ~What? I wouldn't have thought to hear such a statement from you, Dorn.~
+//[Dorn] 
+@89   = ~He is a bad joke of nature. He looks like a half-orc, but he would never stand his ground, should he have to fight like one. He is a disgrace to my race.~
+//[Neera] (Dorn) 
+@90   = ~Ah, now your comment starts to make sense... in a very Dorn-ish way of thinking.~
+//[Rasaad] (Dorn) 
+@91   = ~Dorn, you don't know that, do you?~
+//[Dorn] (Rasaad) 
+@92   = ~I don't have to fight him to see he is weak. No weapons!~
+//[Rasaad] (Dorn) 
+@93   = ~Not everyone needs weapons to fight.~
+//[Dorn] (Rasaad) 
+@94   = ~The way he moved. He was no warrior.~
+//[Rasaad] (Dorn) 
+@95   = ~The way he moved... Agreed, he was no monk, either. But that is not the point.~
+//[Rasaad] 
+@96   = ~Not to judge by the first impression is an ideal people will never reach. This man has a heavy burden to carry.~
+//[Neera] 
+@97   = ~Is must be hard, being judged by your appearance so.~
+//[Safana] 
+@98   = ~*sigh* To be judged by our appearance... Isn't this a fate we have to share all?~
+//[Neera] (Safana) 
+@99   = ~Well, to some extent, maybe, but I didn't... Never mind.~
+//[Imoen] 
+@100   = ~Poor man. I hope he finds what he is searching for.~
+//[Xan] 
+@101   = ~What naivety! Does this... man really believe he will find love and peace... in *this* life?~
+//[Imoen] (Xan) 
+@102   = ~Xan, maybe you should take him as an example.~
+//[Xan] (Imoen) 
+@103   = ~I sincerely should not, Imoen. I surely wouldn't be of *any* use spending my time as a daydreamer!~
+//[Imoen] (Xan) 
+@104   = ~Well, currently you are more like a day-nightmarer... Oh, well, forget it.~
+//[Xan] (Imoen) 
+@105   = ~*sigh* You forget, young human, that an elven mind never forgets. Never.~
+//[Imoen] (Xan) 
+@106   = ~Oh, really? I was searching for this tune recently. Do you know the song? Can you tell me the lyrics? It goes like this *hums a melody.*~
+//[Xan] (Imoen) 
+@107   = ~Almighty gods of Arvanaith... take me to you, now!~
+//[Imoen] (Xan) 
+@108   = ~Er, no, that was not the right lyrics. That didn't even rhyme!~
+//[Xan] (Imoen) 
+@109   = ~*sigh*~
+//[Ajantis] 
+@110   = ~I wish this good man all the best. Life has not been easy on him.~
+//[Dynaheir] 
+@111   = ~May his path be peaceful.~
+//[Xzar] 
+@112   = ~May his path be full of peace and his life full of harmony and blah blah blah!~
+//[Montaron] (Xzar) 
+@113   = ~Now ye did it, Xzar, me eyes are watering.~
+//[Kagain] 
+@114   = ~Maybe we should follow him... and make sure he gets the greeting he deserves!~
+//[Dorn] (Kagain) 
+@115   = ~And that would be what, dwarf?~
+//[Kagain] (Dorn) 
+@116   = ~Oh, come on, Blackguard. Not that ye wouldn't like to try yer weapon on this.~
+//[Safana] 
+@117   = ~What kind of woman promises herself to such a... creature. Did you see his brow-ridges?~
+//[Coran] 
+@118   = ~I acknowledge real love when I see it. This man was in love, and if the woman he courts only feels half of it, they will live happily ever after.~
+
+//[Imoen] 
+@119   = ~Am I the only one who thinks that he would have gone to his betrothed no matter what you said to him, <CHARNAME>?~
+
+
+/* new content v10 */
+
+@120   = ~I do see we are of the same kin, so to say. But that is no guarantee for a friendly encounter, either... No offence meant.~
+

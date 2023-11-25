@@ -1,0 +1,226 @@
+@0    = ~你已经让我解脱了吗？走开！~
+@1    = ~不要打扰我。我在向我的神祈祷。~
+@2    = ~我和路易莎的母亲谈过了。她说你帮助她们打败了那个恶魔。~
+@3    = ~我在这个城市里遇到一件奇怪的事。一个路斯坎来的保姆提到一个发出巨大魔法力量的孩子。~
+@4    = ~你是他们在外面提到的堕落圣武士吗？~
+@5    = ~请再告诉我一次发生在你身上的事。~
+@6    = ~当然，继续。~
+@7    = ~像你这样的无奈不会得到任何宽恕！我要为那个小女孩报仇！~
+@8    = ~如果这是海姆的意志，我会接受死于你手。我不会保护我痛苦的生命。记住海姆的牧师也会这么做。~
+@9    = ~（叹气）是的，外面的人要求将我处死。我希望海姆会给我的祈祷答复。~
+@10   = ~具体发生了什么？人们说你杀死了一个孩子。~
+@11   = ~一个像你这样不敬神的人没有权力在神殿里祈祷！~
+@12   = ~你是个无赖，我要向你复仇！~
+@13   = ~他会的，如果他开脱你的救赎。不论是怎样都会有个结果。~
+@14   = ~那就是我所做的……她是个小女孩，有着褐色的卷发。我肯定她的笑声像那个年纪所有孩子一样快乐和轻盈。请原谅，但是我希望跪下来向我的神祈祷。~
+@15   = ~还有一个问题。你为什么要这么做？~
+@16   = ~当然。进行你的祷告吧。~
+@17   = ~你为什么想要知掉？我承认我犯下了最糟的罪行：我杀死了一个孩子。请让我向我的神祈求救赎！~
+@18   = ~我想要知道，因为我无法想象你会这样做。一定是有什么误会！~
+
+//@19   
+@20   = ~一个误解……也许是这样，但是我因为一个恶魔而产生的误会对失去了他们孩子的父母有意义吗？外面的那些人们会关心并不仅仅是占据了一个孩子的影像，就像我想我用我神圣的力量进行判断，而是仅仅占据了那个女孩？我的神会理解我不知道我可以先用正确的真言放逐那个恶魔拯救那个女孩吗？无论如何，你为什么会对这些有兴趣？~
+@21   = ~那么，你是在说你被一个恶魔欺骗了。~
+@22   = ~这太愚蠢了，不可能是真的。好吧，那么继续祈祷吧。~
+@23   = ~你不配拥有那些神圣的力量！我会为那个女孩复仇！~
+@24   = ~哈！欺骗，是的，也许。听着：我失败了，杀死了一个孩子。我不会说那个恶魔对我这样水平的人来说太强大了之类的话来开脱我的行为……这是我的失败。~
+@25   = ~你告诉我的比外面流传的狂暴圣武士的故事有意义得多。我希望你会得到你的神的宽恕。~
+@26   = ~你过于自怨自艾了，而没有努力寻求解答！~
+@27   = ~好吧，继续你的祷告。~
+@28   = ~我觉得自责和自怨的界限并不分明。但是我正在努力寻求解答：我在向我的神祈祷。请原谅我。~
+@29   = ~谢谢你，真的。但是现在请让我继续我的祷告。~
+@30   = ~海姆祝福那个可怜的女人。我很感激她没有生出任何憎恨我的感情。~
+@31   = ~那……听起来就是小路易莎身上发生的事。来自路斯坎，你说？也许我在博德之门正好碰到那个女人，那么她就可以告诉我更详细的信息。那个恶魔会逃向路斯坎了吗？我会找到他。我会打败他！这次我会准备得更充分，会拯救那个孩子的生命！~
+@32   = ~谢谢你！这个信息对我太有价值了。我能够报答你的只有来自我心底最诚挚的谢意。海姆祝福你。你给了我新的希望。路易莎死在了我的手里，但是我会找到这个怪物，拯救其他孩子。也许……只是也许，这会让我重新找回我的荣誉。~
+//@33  - @38   
+@39   = ~这样一个无赖！~
+@40   = ~什么……走开，粗人！~
+@41   = ~他应给被绞死！~
+@42   = ~也许有更多……你永远不知道。~
+@43   = ~这个谋杀犯还在里面！~
+@44   = ~那个女孩住在哪里？~
+@45   = ~这个歹徒最好不要被我碰到！~
+@46   = ~哈！多甜蜜啊。如果他们开始做我的工作，我就什么也没有了。~
+@47   = ~你没听说吗？杀死了那个小女孩的无赖就躲在神殿里！他曾是个圣武士……你能想象得到吗！~
+@48   = ~那台可怕了！谢谢你告诉我这些。~
+@49   = ~神殿里有个杀小孩者吗，一个堕落圣武士？这个歹徒最好不要被我碰到！~
+@50   = ~是的，让他出来！其余的事情交给我们！~
+@51   = ~离这里不远。是宅邸入口附近的一间房子。听他们说，她的父母再也没有离开过那所房子。那个父亲失了神了！~
+@52   = ~他应该尝试出来，如果他敢！~
+@53   = ~他像个懦夫一样躲在神殿里！~
+@54   = ~那可怜的父母！~
+@55   = ~像那样的人应该被绞死！应该用私刑处死那个谋杀孩子的人！~
+@56   = ~事情怎样了？~
+@57   = ~有问题吗？~
+@58   = ~来吧，大家平静下来。~
+@59   = ~他罪有应得！~
+@60   = ~现在他得到了他该有的惩罚。~
+@61   = ~现在这座城市里的生活又安全了，没有转向邪恶的圣武士在周围。~
+@62   = ~这样邪恶的事情能发生真让人难过。真可惜海姆的牧师们没有尝试打败他。~
+//@63   
+@64   = ~请原谅我们，但是在路易莎死后，我们把门锁了起来以避免打扰。你想要什么？~
+@65   = ~我很抱歉打扰了你。我马上就走。~
+@66   = ~路易莎？她是你的女儿吗？~
+@67   = ~我只是碰巧路过。再会。~
+@68   = ~我能拿走的所有东西。~
+@69   = ~我应该呼唤帮助，但是我太累了。拿走你能找到的东西。我们不会妨碍你。~
+@70   = ~她就是……看看我的丈夫，他在这些房间里无休止的游荡。他失了神了。~
+@71   = ~我很抱歉打扰了你，我现在就走。~
+@72   = ~我听说那个圣武士杀死了你的女儿。~
+@73   = ~我和那个杀死了你的女儿的圣武士谈过了。~
+@74   = ~太可怕了，真的。我必须出发了。~
+@75   = ~是的，可怜的道隆爵士……~
+@76   = ~“可怜的道隆爵士”？听起来你不认为他应该为发生的事情负责。~
+@77   = ~难道你没有因他对你们做的事充满愤怒吗？！~
+@78   = ~我现在要走了……日安。~
+@79   = ~我们对她的死的痛心永无休止，但是我同样对那个圣武士感到遗憾。~
+@80   = ~你所说的事情非常高尚。我不会再打搅你了。~
+@81   = ~从人们说的话来看，似乎是他杀了她。~
+@82   = ~从道隆爵士的话来看，什么强大的邪恶力量与此有关。~
+@83   = ~不，不，那不是他做的……噢，天啊，我希望人们能停止这么说。~
+@84   = ~发生了什么？~
+@85   = ~我很抱歉，但是我不想谈这件事。即使没有新的谣言传开来，人们也已经激动过头了。~
+@86   = ~那么我现在就离开你。再会。~
+@87   = ~他告诉你的吗？他说了什么？~
+@88   = ~你的女儿被一个恶魔附身了。~
+@89   = ~我们还没有讨论详细情况。我要向你告辞了。~
+@90   = ~我求求你了！人们已经很烦躁了！不要一直说我们的孩子是被一个恶魔附身了……我深深的感激道隆爵士，他从来没有用那作为理由，为那些针对他的谴责进行开脱。~
+@91   = ~具体发生了什么？~
+@92   = ~这一切都是从路易莎开始的……我们的女儿突然生出了魔法力量。强大的播放力量。最开始，我们以为她终于成为了一个女术士……~
+@93   = ~但是那个力量变得太强大，太危险……而且她变得邪恶。我可怜的宝贝……那个恶魔侵占了她的意志，就像霉菌侵占了一条长面包。~
+@94   = ~我的丈夫，一直在这座房子里游荡，想要找回他的记忆，他已经认不出我是他的妻子了。他在这场变故中失了神。道隆爵士来帮助我们。所有迹象都表明那个恶魔占据了我们孩子的身体，好像一些下流的分身，但是在他……杀死她后，除了我们的小女孩什么都没有。我们听到了一阵可怕的狂笑。道隆爵士的脸完全白了。他在努力帮助我们摆脱这个恐怖的生物时失去了他的荣誉。~
+@95   = ~你认为我没有为我的女儿而痛心吗？我失去了我的小宝贝……但是她……她在她的身体被杀死之前就已经走了。她变成了怪物。道隆爵士只是在努力帮助我们，他为什么要承受这样沉重的负担？~
+@96   = ~你听到了笑声？你的意思是那个恶魔可能仍然在这里的某处？~
+@97   = ~那台可怕了。我们会看看这件事会怎样。~
+@98   = ~我走了。~
+@99   = ~道隆爵士所在骑士团的同伴们搜索了整个城市，但是他们没有发现任何线索。~
+@100  = ~感谢你告诉我这些。~
+@101  = ~我想我必须把这个告诉某人。现在，请离开我们吧。~
+@102  = ~请原谅，你有什么可以给我吗，一些食物，或者也许一些钱？~
+@103  = ~当然，拿着这枚金币。~
+@104  = ~可怜的女人！你怎么啦？在我看来，你不像是一个乞丐。~
+@105  = ~走开，乞丐！~
+@106  = ~是的，这总是一样！我也不认同你！~
+@107  = ~哈！是的，你就在那里。~
+@108  = ~拿着这枚金币。~
+@109  = ~非常感谢你！现在，有三个……~
+@110  = ~如果哪个小鬼被我抓到！先是那些诡计，然后她突然生出魔法力量，把握传送到了博德之门！我一旦有了足够的钱，就会回到路斯坎，把那整个家庭送上法庭！~
+@111  = ~那些外面的人走了……恐怕他们找到别的可以让他们诽谤和满足他们好奇心的目标了。~
+@112  = ~是的，他们有时这么快的就去了不同的地方真可笑，呵呵。~
+@113  = ~你注意到他们为什么走了吗？~
+@114  = ~我不想和你讲话。~
+@115  = ~为什么没有任何焰拳的成员追捕你？~
+@116  = ~我不喜欢你说话的方式。我真的希望你没有对此做过什么，尽管我不知道你有些什么可以告诉他们，让事情变得更糟。~
+@117  = ~海姆怜悯我，给了我检验我自己并从新获得我的力量的机会！~
+@118  = ~相关的人知道发生了什么。没必要进行更多动作，感谢海姆。现在的情形在控制之下。没迹象表明那个恶魔还留在这个城市里……否则我也不会还站在这里。（叹气）~
+@119  = ~我不知道是否是我造成这样情况。如果城市的官方人员，至少，会让我为我的行为而流血……但是这样可以，或者将会让我为我所做的事情作出补偿。~
+@120  = ~不。我在深深的祈祷。~
+@121  = ~他们有时这么快的就去了不同的地方真可笑，不是吗？~
+@122  = ~他们让这座城市陷入恶魔侵占的危险中了！~
+@123  = ~我在想她的父母在这个恶魔事件里起到了什么作用。~
+@124  = ~恶魔在这个城市里！这太难以置信了。~
+@125  = ~想想如果我们没有注意到，将会发生些什么！~
+@126  = ~你知道那个小女孩是被恶魔附体了吗？她妈妈告诉我的！一个恶魔！就在城市的中心里！~
+@127  = ~这恐怕不关我的事。~
+@128  = ~一个……一个恶魔？！~
+@129  = ~你在开玩笑吗？这太荒谬了。~
+@130  = ~我的表兄邓恩在焰拳工作。他告诉我他们最近有些奇怪的情报。~
+@131  = ~你是说这座城市会被恶魔侵占？！~
+@132  = ~而这是从路易莎的家开始的！她的父母真可耻，他们早就应该做点什么！~
+@133  = ~让我们去那里，告诉他们我们不会再容忍下去！~
+@134  = ~现在，请走吧。你在这里不受欢迎。~
+@135  = ~你做了什么？！所有那些愤怒的人们都在威胁我们……我们没办法离开这里去另一个地方，所以我们只有待在这里。我只希望他们最终会冷静下来。现在，请走吧。你在这里不受欢迎。~
+@136  = ~我很抱歉，但是我不会散布这些细节。我只是讨论了那些别人已经知道的发生过的事情。我希望你能理解。~
+
+
+
+
+/* new content v9 */
+
+//---NPC reactions--
+
+@137   = ~That is a harsh situation indeed. There are no excuses, you fell for a good reason -  you killed an innocent girl. But you were tricked and unaware of your action. Helm might forgive you if you prove yourself worthy.~
+@138   = ~Pray to the Most Vigilant that this will never happen to you, friend.~
+@139   = ~I am most content that we could help this man, <CHARNAME>.~
+@140   = ~May he find his peace.~
+@141   = ~Ah, that's great. Now he might find his forgiveness, after all. And hopefully he will save lives in Luskan, too.~
+@142   = ~An idle hope, the hope for forgiveness.~
+@143   = ~Very good. I was thinking whether we should warn the Luskan's authorities about the danger, but we couldn't have sent a better messenger, I guess.~
+@144   = ~I hope he will be fast. I can't bear thinking about what this demon will do in Luskan.~ 
+@145   = ~Minsc fears for the young girl in Luskan. The paladin should hurry!~
+@146   = ~I wish him success!~
+@147   = ~Maybe when he is in Luskan, he will be able to spare some time to improve his appearance... But, to be honest, while he looked terrible, he didn't seem to be dirty in any way. I would have expected a person standing in a corner for that long to stink upwind.~
+@148   = ~A paladin always has to take care of his appearance, Safana.~
+@149   = ~Yes, but his clothes were in a terrible state! And when, in the midst of his all-encompassing remorse, did he find the time to wash and shave?!~ 
+@150   = ~But I thought he is no paladin any longer? I am lost.~
+@151   = ~That is a very sad story.~
+@152   = ~Nevertheless, I expected a bit more drama, somehow.~
+@153   = ~But it seems it will all end well. Do you think we will ever find out how it ended? ...How far away is Luskan, actually?~
+@154   = ~Far enough not to be any concern of ours.~
+
+@155   = ~I am wondering whether the girls are taken over completely by this demon, or whether they have control over his power... Hm, I have to think about this some more. The increase in power must be enormous!~
+@156   = ~It must be a strange feeling indeed, suddenly to have as much power as these girls do.~
+@157   = ~Those are idle thoughts. Those poor girls don't have any control over the demon's powers.~
+@158   = ~That is where the demon went? I surely hope the girls don't notice what is happening to them... The demon must have taken over completely, or the paladin would not have been tricked like that.~
+@159   = ~As if a human wouldn't have enough demons already...~
+@160   = ~True, my friend, very true.~
+@161   = ~Now, what kind of demon should that be? I never heard of a demon that possesses his victims so. I, at least, never met one!~
+@162   = ~That's a-cos' ye haven't been a young girl for quite some time now, Xzar.~
+
+@163   = ~And gone he is. There he goes, the girl's murderer. At least he had a good excuse.~
+@164   = ~Bah, we glow of charity and felicitousness, it's driving me away!~ 
+@165   = ~You want to go to Luskan?...~
+
+@166   = ~<CHARNAME>, why did you do that?~
+@167   = ~Now, this really was unnecessary! Don't ye think these poor parents have enough problems as it is?~
+@168   = ~The mother asked for secrecy!~
+@169   = ~It is appalling to see how you are playing with the confidence and the peace of these people, <CHARNAME>.~
+@170   = ~Now they all g-go to the p-parents' house!~
+@171   = ~If it weren't such a sad occasion, this could be really fun! Er, no. I don't think it's fun.~
+@172   = ~Dost thou find this amusing? Why didst thou give that information to these people?~
+@173   = ~Ha! I didn't know ye are of the jesting kind.~
+@174   = ~Oh, <CHARNAME>, how could you... The poor, poor parents... gnehehehehe!~
+@175   = ~Ye-heah! Quick, let's go to the parents' house and watch the mob do their mobbing!~
+
+@176   = ~But this sounded exactly like what happened to Luisa, didn't it?~
+@177   = ~What that woman said could be of interest to that poor paladin.~
+@178   = ~<CHARNAME>, the words that woman said took me aback. Please, let us go to the temple of Helm and tell Sir Dauron as fast as possible.~
+
+@179   = ~Was this the same demon? His powers must be great indeed, if he can teleport himself and that nanny from Baldur's Gate to Luskan and vice versa like that.~
+
+//Dorn
+@180   = ~I don't care about fallen paladins standing in temples. I only care about them if I have to put my sword through them. The demon, though, I would have liked to meet.~
+
+//Neera
+@181   = ~I... I wish him atonement. Not everyone of us has the chance to do something great to receive it.~
+ //Rasaad
+@182   = ~His god might have turned from him, but he still was honest and good in his thoughts. I wish him well.~
+
+//Baeloth
+@183   = ~What, what? He goes to Luskan? He goes where the demon is? I know this kind of demon. I am glad he is in Luskan! Far, *far* away!~
+
+//Dorn
+@184   = ~Hmph. I don't care where the people gather, but I would prefer you wouldn't stir so much attention to our presence.~
+
+//Neera
+@185   = ~Ah, now the angry mob is gone, what a relief... Wait, they moved to the parents' house, didn't they? Ow, that is bad.~
+
+//Baeloth
+@186   = ~Hmm, manipulating the angry masses, <CHARNAME>? What a spectacle. Although, if they knew what kind of demon this was, they would thank the man for driving it away, not pester the people involved.~
+
+//Neera
+@187   = ~To wake up in a totally different part of the lands, without money and the knowledge how to have come here... What a thought!~
+
+//Baeloth
+@188   = ~Whaha! In Luskan it is now! Hearing the story that woman had to tell, there will be another fallen paladin there, soon.~
+
+ //Rasaad
+@189   = ~The story that poor woman told rang a bell. We should talk to that fallen paladin in the temple again, <CHARNAME>.~
+
+//Rasaad
+@190   = ~Did you have your fun? Because for you, it might have been a short moment of fun to yell this news into the crowd, but for the mother it is great cause of inconvenience! I wished you would have shown more respect towards people already shaken by destiny as they were - especially if they have asked you to!~
+
+
+
+
+

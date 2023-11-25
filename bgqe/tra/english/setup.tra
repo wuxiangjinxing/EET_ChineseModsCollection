@@ -1,0 +1,68 @@
+/* All unused numbers are used in bgqe_game.tra! */
+@0    = ~博德之门小任务和遭遇合集 汉化：Archenemy~
+@1    = ~检测到BG1Tutu。使用BG1Tutu安装代码……~
+@2    = ~检测到原版博德之门。安装……~
+
+
+@9    = ~检测到BGT。使用BGT安装代码……~
+
+@13   = ~安装任务，贝尔苟斯特家庭……~
+
+@19   = ~安装任务，临时保姆，包含嘉年华遭遇……~
+
+@38   = ~安装任务，史莱姆……~
+@39   = ~安装任务，那西凯的怪物……~
+
+
+@43   = ~安装任务，堕落圣武士……~
+
+@48   = ~安装任务，不死的爱……~
+
+@50   = ~安装遭遇，兽人爱人……~
+
+@56   = ~安装任务，意想不到的帮助……~
+
+
+
+/* new contents: v9 */
+
+
+@61   = ~Many Little Paws~
+
+@66   = ~BG:EE detected.~
+
+@98   = ~Drunk near Beregost Temple~
+
+
+/* new contents v10 */
+
+@105  = ~A Warm Place for Noober~
+
+/* new content v15 */
+
+@109  = ~EET detected.~
+
+
+/* new contents v16 */ 
+
+
+@5000 = ~Brage's Sword~
+@5001 = ~Legal Sea Charts Sources~
+@5002 = ~Additions to the Lady's Hall and the Bitch Queen's Temple~
+@5003 = ~Your SoD game needs to be modmerged before mods can be installed on this game. Check the readme for more information and a link to download the DLC Merger or Modmerge.~ 
+
+@5004  = ~A Worried Farmer~
+@5005   = ~Bodies for a Good Cause~
+
+@5006   = ~This component is not compatible with original Baldur's Gate 1.~
+
+/* new for v19 */
+@5007   = ~The quest "Brage's Sword" is already included via the mod "Brage's Redemption".~
+@5008   = ~bgqe is not compatible with this game.~
+
+/* new for v23 */
+@5009   = ~Finish Cordyr's Quest without killing Sil~
+
+/* new for v24 */
+@5010   = ~This mod needs to be installed before EET_End on your EET install.~
+
